@@ -1,0 +1,20 @@
+07/05/2021 04:55 a.m. Starting job "Backup Job - 1 " - "Full". Server "PROGRAMADOR-PC". Account "SYSTEM@WORKGROUP". App v."12.5.5". 
+07/05/2021 04:55 a.m. Connecting to: (10.4.18-MariaDB). localhost. 
+07/05/2021 04:55 a.m. The temporary folder "C:\Backup" has "103,477GB" free space. 
+07/05/2021 04:55 a.m. Backing up "localhost" databases with "mysqldump.exe: Ver 8.0.13 for Win64 on x86_64 (MySQL Community Server - GPL)" 
+07/05/2021 04:55 a.m. Database "modelogymv5" successfully backed up to "C:\Backup\modelogymv5202105062355.sql : 21,418KB". 
+07/05/2021 04:55 a.m. Compressing "C:\Backup\modelogymv5202105062355.sql" file with Internal archiver. Encryption: "Off". 
+07/05/2021 04:55 a.m. Backup of "modelogymv5" successfully compressed to "(modelogymv5202105062355.zip : 4,04KB)". 
+07/05/2021 04:55 a.m. Connecting to "Folder" destination "C:\Backup". 
+07/05/2021 04:55 a.m. Reading folder information by path: "C:\Backup". 
+07/05/2021 04:55 a.m. The current destination folder is "C:\Backup". 
+07/05/2021 04:55 a.m. Sending backup of "modelogymv5" to "Folder" destination "C:\Backup". 
+07/05/2021 04:55 a.m. Uploading local "modelogymv5202105062355.zip" to remote "modelogymv5202105062355.zip" in folder "C:\Backup". 
+07/05/2021 04:55 a.m. Uploaded 100.00 % (average speed = 183,63 KB/s). 
+07/05/2021 04:55 a.m. Verifying remote file "modelogymv5202105062355.zip" with local one "modelogymv5202105062355.zip". 
+07/05/2021 04:55 a.m. Cleaning up backups of "Backup Job - 1 " job. 
+07/05/2021 04:55 a.m. Cleaning up backups of "modelogymv5" database at "Folder" destination "C:\Backup". 
+07/05/2021 04:55 a.m. "1" backup files of "modelogymv5" database are stored. Deleted backup files: "0". 
+07/05/2021 04:55 a.m. Disconnecting from "Folder" destination "C:\Backup". 
+07/05/2021 04:55 a.m. Job "Backup Job - 1 " finished. 
+07/05/2021 04:55 a.m. Sending job log to sercorrea30@gmail.com. 
